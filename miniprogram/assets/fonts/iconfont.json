@@ -1,0 +1,51 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5097334",
+      "name": "菜",
+      "font_class": "cai",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "5166734",
+      "name": "啤酒",
+      "font_class": "pijiu",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "6996983",
+      "name": "猪",
+      "font_class": "zhu",
+      "unicode": "e689",
+      "unicode_decimal": 59017
+    },
+    {
+      "icon_id": "7602800",
+      "name": "肉食",
+      "font_class": "roushi",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "17000607",
+      "name": "热辣烧烤",
+      "font_class": "relashaokao",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "39594805",
+      "name": "不错好吃表情",
+      "font_class": "a-bucuohaochiweidaobiaoqingxiaolian",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    }
+  ]
+}
